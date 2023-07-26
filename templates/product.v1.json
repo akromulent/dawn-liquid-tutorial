@@ -76,7 +76,11 @@
       }
     },
     "poster": {
-        "type": "image-poster"
+        "type": "image-poster",
+        "settings": {
+          "padding_top": 36,
+          "padding_bottom": 28
+        }
     }
   },
   "order": [
