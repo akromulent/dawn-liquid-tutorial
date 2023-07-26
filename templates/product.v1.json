@@ -74,6 +74,9 @@
         "padding_top": 36,
         "padding_bottom": 12
       }
+    },
+    "poster": {
+        "type": "image-poster"
     }
   },
   "order": [
