@@ -1,1 +1,10 @@
-{{ < h1 > display hello world < /h1 > > }}
+{{ nil }}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{{ < h1 > display hello world < /h1 > > }}"
+  to: "{{ nil }}"
+  position: 0..9
+{%- endcomment -%}
